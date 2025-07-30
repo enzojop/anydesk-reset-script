@@ -49,8 +49,6 @@ Contribuições são bem-vindas! Se quiser melhorar o script, criar uma versão 
 
 ---
 
-📄 Licença
-Este projeto está licenciado sob a MIT License.
 
 📫 Contato
 Caso tenha dúvidas ou sugestões, entre em contato via e-mail: enzopereira6823@gmail.com ou GitHub.
