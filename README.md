@@ -22,7 +22,7 @@ Este repositório contém um script `.bat` para **resetar completamente o AnyDes
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/enzojop/reset-anydesk.git
+   git clone https://github.com/enzojop/anydesk-reset-script.git
 Vá até a pasta do projeto e clique com o botão direito no arquivo:
 
 Copiar
